@@ -1,5 +1,6 @@
 ![Untitled design](https://github.com/user-attachments/assets/11a001b2-f31e-403a-9706-d0617d2c9cb5)
-NOTE 
-IMAGE GENERATOR IS FREE TO USE AND COPYRIGHT FREE WE USE https://pixabay.com/ FOR INAGES WE ARE NOT OWNER'S OF ANY INAGES IN THIS PLATFORM FULL CREDIT GOES TO PIXABAY AND THEIR RESPECTIVE OWNER'S.
-THIS IMAGE GENERATOR IS FREE TO USE IF YOU DON'T WANT TO DOWNLOAD THE GO TO THE WEBSITE : https://imggen.tiiny.site/ AND GENERATE HERE YOUR IMAGINATION.
-WE HAVE LICENCE : https://pixabay.com/api/?key=${apiKey}&q=${encodeURIComponent(prompt)}&image_type=photo
+<h3>NOTE</h3>
+<a href="https://pixabay.com/" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button> 
+ FOR INAGES WE ARE NO LICENCE : https://pixabay.com/api/?key=${apiKey}&q=${encodeURIComponent(prompt)}&image_type=photo
