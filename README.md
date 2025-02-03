@@ -1,7 +1,7 @@
 ![Untitled design](https://github.com/user-attachments/assets/11a001b2-f31e-403a-9706-d0617d2c9cb5)
 # Image Generator Website
 
-Welcome to our **Image Generator Website**! 🎨✨
+Welcome to our **Image Generator Website**! 🎨🖍️✨
 
 This is a website where you can create beautiful images with ease. It is powered by our **Image Generator** and offers a smooth experience for all your creative needs.
 
