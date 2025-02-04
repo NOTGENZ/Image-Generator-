@@ -14,7 +14,7 @@ This is a website where you can create beautiful images with ease. It is powered
 2. Choose your preferences and click the **Generate** button to create an image.
 3. Download and use the generated image for your projects.
 ## Download apk
-[![Click here ]](https://www.webintoapp.com/download/apk/594763/app-release.apk)
+[[Click here ]](https://www.webintoapp.com/download/apk/594763/app-release.apk)
 
 ## 🔗 Related Links
 - **[Pixabay](https://pixabay.com/)** (for free stock images)
