@@ -41,5 +41,5 @@ This is a website where you can create beautiful images with ease. It is powered
 ---
 
 ### 💡 **Note**:
-This website is not an application. It is a simple online **Image Generator** tool for users who want to create images easily and quickly.
+This tool is powered by pixabay . It is a simple online **Image Generator** tool for users who want to create images easily and quickly.
 
